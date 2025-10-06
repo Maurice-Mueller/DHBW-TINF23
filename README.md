@@ -4,4 +4,9 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
 
 ## 2025-09-30
 
-
+- Vorstellung Programmentwurf
+- Softwarearchitektur
+  - Einführung
+  - Clean Architecture
+  - Hexagonale Architektur
+  - Schichtenmodell
