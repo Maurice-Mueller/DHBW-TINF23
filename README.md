@@ -25,3 +25,23 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
   - Low Coupling
   - High Cohesion
   - Information Expert
+
+## 2025-10-21
+
+- GRASP
+  - vollständig
+- Domain Driven Design
+  - Einführung
+  - Domänenmodell
+  - Abstraktion und Wirklichkeit
+  - Modellbildung
+  - inhärente und versehentliche Komplexität
+  - Strategisches DDD
+  - Ubiquitous Language / Projektsprache
+  - Problemdomäne
+  - Domänenarten
+  - Bounded Context
+  - Taktisches DDD
+  - Grundbausteine Übersicht
+  - Value Objects
+  - Entities
