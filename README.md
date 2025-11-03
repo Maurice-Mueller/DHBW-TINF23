@@ -45,3 +45,16 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
   - Grundbausteine Übersicht
   - Value Objects
   - Entities
+
+## 2025-10-28
+
+- DDD
+  - vollständig
+- Legacy Code
+  - Einführung
+  - Test Harness
+  - Fake- und Mock-Objekte
+  - Seam Model
+  - Sprouts and Wrapper
+    - bis einschließlich Sprout Method
+
