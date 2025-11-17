@@ -58,3 +58,31 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
   - Sprouts and Wrapper
     - bis einschließlich Sprout Method
 
+## 2025-11-04
+
+- Legacy Code
+  - Sprouts und Wrapper
+    - vollständig
+  - Sprung zu "Techniken zum Auflösen von Abhängigkeiten"
+    - bis einschließlich "Parameterized Constructor"
+
+
+## 2025-11-11
+
+- Legacy Code
+  - übersprungene Folien von letzter Woche
+  - vollständig
+- Refactoring
+  - Einleitung
+  - Vereinfachter Entwicklungsprozess
+  - Nachteile
+  - Code Smells
+    - Duplicated Code
+    - Long Method
+    - Long Parameter List
+    - Large Class
+    - Shotgun Surgery
+    - Code Comments
+    - Switch Statement
+
+
