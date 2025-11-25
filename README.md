@@ -85,4 +85,10 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
     - Code Comments
     - Switch Statement
 
+## 2025-11-18
 
+- Refactoring
+  - vollständig
+- Entwurfsmuster
+  - Einleitung
+  - Listener-Pattern
