@@ -21,13 +21,14 @@ _[THEMA] ([PERSONENANZAHL)_
 - Statistik-Tool für Bahnreisen (1)
 - Kalam - Kommunikationssystem (2)
 - Poker-Simulator (3)
+- Textadventure (3)
+- Monopoly (3)
 
 ## Angefragt
 
-- Textadventure (3)
-- Matrizen-Rechner (3)
 - Dungeon-Crawler (1)
 
 
 ## Wieder verfügbar
 - Peer-To-Peer-Chat
+- Matrizen-Rechner
