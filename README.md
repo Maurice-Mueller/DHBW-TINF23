@@ -92,3 +92,12 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
 - Entwurfsmuster
   - Einleitung
   - Listener-Pattern
+
+## 2026-02-17
+
+- Entwurfsmuster
+  - vollständig
+
+## 2026-02-24
+
+- Softwaretests
