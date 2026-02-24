@@ -101,3 +101,6 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
 ## 2026-02-24
 
 - Softwaretests
+  - vollständig
+- Prinzipien
+  - bis einschließlich Murphy's Law
