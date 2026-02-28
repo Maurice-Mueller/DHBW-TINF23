@@ -22,7 +22,7 @@ _[THEMA] ([PERSONENANZAHL)_
 - Kalam - Kommunikationssystem (2)
 - Poker-Simulator (3)
 - Textadventure (3)
-- Monopoly (3)
+- Monopoly (2)
 
 ## Angefragt
 
