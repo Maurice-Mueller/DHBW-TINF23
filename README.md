@@ -104,3 +104,14 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
   - vollständig
 - Prinzipien
   - bis einschließlich Murphy's Law
+
+
+## 2026-03-03
+
+- Prinzipien (vollständig)
+- UI/UX
+  - Einführung
+  - Pyschologie und Biologie
+  - Ansätze
+  - Benutzergruppen
+    - bis einschließlich "Nutzungskontextanalyse: Vor-Ort-Beobachtung"
