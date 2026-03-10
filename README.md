@@ -115,3 +115,8 @@ Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf
   - Ansätze
   - Benutzergruppen
     - bis einschließlich "Nutzungskontextanalyse: Vor-Ort-Beobachtung"
+
+
+## 2026-03-010
+
+- UI/UX (vollständig)
